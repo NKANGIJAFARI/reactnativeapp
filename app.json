@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactnativeapp",
-    "slug": "reactnativeapp",
+    "name": "reactnativeapp_learn",
+    "slug": "jefapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Its my first app.\n",
+    "githubUrl": "https://github.com/NKANGIJAFARI/reactnativeapp.git"
   }
 }
