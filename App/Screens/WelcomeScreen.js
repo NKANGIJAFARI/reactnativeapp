@@ -7,14 +7,14 @@ import {
   Button,
   StatusBar,
   Platform,
-  Image,
+  ImageBackground,
 } from 'react-native';
 
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View styles={styles.imageContainer}>
-        <Image
+        <ImageBackground
           source={require('./assets/background.jpg')}
           style={styles.bgImage}
         />
